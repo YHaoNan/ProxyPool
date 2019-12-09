@@ -15,7 +15,7 @@ You must make sure your computer has installed golang.
 
 ```
 cd source
-go clone https://github.com/YHaoNan/ProxyPool.git
+git clone https://github.com/YHaoNan/ProxyPool.git
 cd ProxyPool
 go build
 ./HTTPProxyPool
